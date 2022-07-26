@@ -1,10 +1,33 @@
-### Hi there 👋 Nice to see u.
+### Hello 👋 Nice to see u 
+
+### [Have a nice day] ☀️⛅
 
 - 😄 My name is: AruethaiChan ...
 - ⚡ Student id: 63367681
 - ⚙️ Career interest in the future: Backend developer
 - 🖥️  I'm interesting in Computer Network
 - 🔭 I'm currently studying on Faculty of Engineering.
+    
+## Contact
+<p align="left">
+<a href="#">
+    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a> 
+</p>
+
+- Aruethaic63@nu.ac.th
+
+<p align="left">
+
+<p align="left">
+<a href="#">
+    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a> 
+</p>
+
+- aruethai.chan
+
+
 
 ## Developer Tech
 
@@ -35,6 +58,10 @@
   </a>
 
  <a href="#">
+    <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="#">
     <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
   </a> 
 
@@ -49,4 +76,5 @@
 <a href="#">
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
   </a>
+
 </p>
