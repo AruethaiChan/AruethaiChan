@@ -6,8 +6,6 @@
 - 🔭 I'm currently studying on Faculty of Engineering.
 
 ## Developer Tech
-
-### Frameworks 
 <p align="left">
 <a href="#">
     <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
@@ -30,7 +28,7 @@
   </a> 
   
  <a href="#">
-    <img src="svg/dev/languages/python.svg" alt="c" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/python.svg" alt="java" style="vertical-align:top; margin:6px 4px">
   </a>
 
 <a href="#">
