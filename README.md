@@ -3,6 +3,7 @@
 - 😄 My name is: AruethaiChan ...
 - ⚡ Student id: 63367681
 - ⚙️ Career interest in the future: Backend developer
+- 🖥️  I'm interesting in Computer Network
 - 🔭 I'm currently studying on Faculty of Engineering.
 
 ## Developer Tech
