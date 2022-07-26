@@ -2,6 +2,7 @@
 
 - 😄 My name is: AruethaiChan ...
 - ⚡ Student id: 63367681
+- ⚙️ Career interest in the future: Backend developer
 - 🔭 I'm currently studying on Faculty of Engineering.
 
 ## Developer Tech
@@ -27,6 +28,10 @@
 <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a> 
+  
+ <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="c" style="vertical-align:top; margin:6px 4px">
+  </a>
 
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
